@@ -1,0 +1,15 @@
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\bin\Debug\net7.0\controlWork.exe
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\bin\Debug\net7.0\controlWork.deps.json
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\bin\Debug\net7.0\controlWork.runtimeconfig.json
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\bin\Debug\net7.0\controlWork.dll
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\bin\Debug\net7.0\controlWork.pdb
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.dll
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\refint\controlWork.dll
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.pdb
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\controlWork.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Рабочий стол\C#\controlWork\obj\Debug\net7.0\ref\controlWork.dll
